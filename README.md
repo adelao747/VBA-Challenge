@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-For this VBA challenge, it consisted of creating a VBA script to for a Stock Market workbook. 
+For this VBA challenge, it consisted of creating a VBA script for a Stock Market workbook. 
 
 The scripts created for this workbook consisted of:
   *Consolidating the ticker symbol into one column
